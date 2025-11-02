@@ -1,0 +1,21 @@
+{
+	"siteId": "26221e56-cb79-45c7-ac57-b191d9692e7f",
+	"geolocation": {
+		"data": {
+			"city": "Hyderabad",
+			"country": {
+				"code": "IN",
+				"name": "India"
+			},
+			"subdivision": {
+				"code": "TS",
+				"name": "Telangana"
+			},
+			"timezone": "Asia/Kolkata",
+			"latitude": 17.3843,
+			"longitude": 78.4583,
+			"postalCode": "500001"
+		},
+		"timestamp": 1755178023287
+	}
+}
