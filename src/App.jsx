@@ -8,8 +8,6 @@ import feather from "feather-icons";
 import Skills from "./components/Skills";
 import Services from "./components/Services";
 import Experience from "./components/Experience";
-import Posts from "./components/Posts";
-import UserForm from "./components/UserForm";
 
 function App() {
   useEffect(() => {
@@ -24,9 +22,7 @@ function App() {
       <Skills />
       <Services />
       <Experience />
-      <UserForm />
       <Contact />
-      <Posts />
       <Footer />
     </>
   );
