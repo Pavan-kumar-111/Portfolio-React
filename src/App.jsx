@@ -25,7 +25,6 @@ function App() {
       <Services />
       <Experience />
       <UserForm />
-      <Contact />
       <Footer />
     </>
   );
