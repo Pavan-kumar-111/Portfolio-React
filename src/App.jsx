@@ -8,7 +8,6 @@ import feather from "feather-icons";
 import Skills from "./components/Skills";
 import Services from "./components/Services";
 import Experience from "./components/Experience";
-
 function App() {
   useEffect(() => {
     feather.replace();
