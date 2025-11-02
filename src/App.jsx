@@ -26,7 +26,6 @@ function App() {
       <Experience />
       <UserForm />
       <Contact />
-      <Posts />
       <Footer />
     </>
   );
