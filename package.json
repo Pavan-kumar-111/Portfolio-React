@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
-    "@neondatabase/serverless": "^1.0.1",
     "@netlify/neon": "^0.1.0",
     "feather-icons": "^4.29.0",
     "react": "^18.2.0",

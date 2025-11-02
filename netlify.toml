@@ -1,5 +1,0 @@
-[functions]
-directory = "netlify/functions"
-
-[dev]
-framework = "create-react-app"

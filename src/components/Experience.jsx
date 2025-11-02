@@ -7,7 +7,7 @@ function Experience() {
     <h2>Experience</h2>
     <div className="timeline">
       <div className="timeline-item">
-        <h3>Sathya Technologies</h3>
+        <h3>Intern | Sathya Technologies</h3>
         <p>Developed Bank Management System and Contact Manager applications using Spring Boot, MySQL, React.js, and REST APIs.</p>
       </div>
       <div className="timeline-item">
@@ -38,7 +38,7 @@ function Experience() {
     <ul>
       <li><strong>B.Sc.</strong> – Graduated with strong focus on programming fundamentals.</li>
       <li><strong>Full Stack Java Developer</strong> – Sathya Technologies, Grade A.</li>
-      <li>Certifications in Full Stack Java Developer, Data Structures & Algorithms, MongoDB, and Web Development.</li>
+      <li>Certifications in Data Structures & Algorithms, MongoDB, and Web Development.</li>
     </ul>
   </section>
     </>
