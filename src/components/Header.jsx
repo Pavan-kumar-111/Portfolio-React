@@ -5,11 +5,8 @@ import profilephoto from '../assets/profile-photo.jpg'
 export default function Header() {
   const [navOpen, setNavOpen] = useState(false);
   const [darkMode, setDarkMode] = useState(() => {
-    // respect saved preference, else light
     return localStorage.getItem("theme") === "dark";
   });
-
-  // apply/remove body class for dark theme
   useEffect(() => {
     const body = document.body;
     if (darkMode) {
@@ -20,8 +17,6 @@ export default function Header() {
       localStorage.setItem("theme", "light");
     }
   }, [darkMode]);
-
-  // ensure feather icons render (runs on open/close + theme change)
   useEffect(() => {
     feather.replace();
   }, [navOpen, darkMode]);
