@@ -63,7 +63,7 @@ export default function Header() {
         <a href="#skills" className="nav-link" onClick={closeNav}>Skills</a>
         <a href="#services" className="nav-link" onClick={closeNav}>Services</a>
         <a href="#experience" className="nav-link" onClick={closeNav}>Experience</a>
-        <a href="#portfolio" className="nav-link" onClick={closeNav}>Portfolio</a>
+        <a href="#portfolio" className="nav-link" onClick={closeNav}>Projects</a>
         <a href="#education" className="nav-link" onClick={closeNav}>Education</a>
         <a href="#contact" className="nav-link" onClick={closeNav}>Contact</a>
       </nav>
