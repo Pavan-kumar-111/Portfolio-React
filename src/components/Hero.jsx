@@ -1,4 +1,4 @@
-import resume from '../assets/T_PAVAN_KUMAR _ FULL_STACK_JAVA_DEVELOPER.pdf'
+import resume from '../assets/PAVAN_KUMAR_RESUME.pdf'
 
 export default function Hero() {
   return (
